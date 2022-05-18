@@ -1,6 +1,18 @@
 # Practice
+## Made by:
+## Joshua Alexis Aviles
+## Fabian Eduardo Escobar Galarza
+## Gustavo Adolfo Valladolid Tarango
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+
+## Install Angular CLI
+
+Install the CLI using the npm package manager with `npm install -g @angular/cli`.
+
+## Create a new project with Angular
+
+Run `ng new name-project`, to create a new project then change the direcroty to access de Angular App and check the modules and components of this framework.
 
 ## Development server
 
