@@ -1,8 +1,9 @@
 # Practice
-## Made by:
-Joshua Alexis Aviles - Fabian Eduardo Escobar Galarza - Gustavo Adolfo Valladolid Tarango
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+
+## Made by:
+Joshua Alexis Aviles - Fabian Eduardo Escobar Galarza - Gustavo Adolfo Valladolid Tarango
 
 ## Install Angular CLI
 
