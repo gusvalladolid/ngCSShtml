@@ -13,6 +13,8 @@ Install the CLI using the npm package manager with `npm install -g @angular/cli`
 
 Run `ng new name-project`, to create a new project then change the directory to access de Angular App and check the modules and components of this framework.
 
+![image](https://user-images.githubusercontent.com/50721208/168958001-d2314d70-afec-48a6-b240-d113afb3d82e.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
