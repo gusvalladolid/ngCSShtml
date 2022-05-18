@@ -11,7 +11,7 @@ Install the CLI using the npm package manager with `npm install -g @angular/cli`
 
 ## Create a new project with Angular
 
-Run `ng new name-project`, to create a new project then change the direcroty to access de Angular App and check the modules and components of this framework.
+Run `ng new name-project`, to create a new project then change the directory to access de Angular App and check the modules and components of this framework.
 
 ## Development server
 
