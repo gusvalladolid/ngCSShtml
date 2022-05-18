@@ -9,15 +9,19 @@ Joshua Alexis Aviles - Fabian Eduardo Escobar Galarza - Gustavo Adolfo Valladoli
 
 Install the CLI using the npm package manager with `npm install -g @angular/cli`.
 
+![image](https://user-images.githubusercontent.com/50721208/168958001-d2314d70-afec-48a6-b240-d113afb3d82e.png)
+
 ## Create a new project with Angular
 
 Run `ng new name-project`, to create a new project then change the directory to access de Angular App and check the modules and components of this framework.
 
-![image](https://user-images.githubusercontent.com/50721208/168958001-d2314d70-afec-48a6-b240-d113afb3d82e.png)
+![image](https://user-images.githubusercontent.com/50721208/168959301-8680f637-c5ab-415e-9367-d115edf74589.png)
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+![image](https://user-images.githubusercontent.com/50721208/168959428-5156b3cf-1a6d-4b11-b0d9-5505b056da28.png)
 
 ## Code scaffolding
 
